@@ -11,6 +11,9 @@ Additionally, it includes a feature to change the text color and open multiple t
 - **Customizable Text Color**: Change text color using a color picker.
 - **Predefined Window Size**: Fixed window size for a consistent user experience.
 
+## Information
+Within the code theres **notes** explaining what part of the code does what, incase you want to update or change the code to your own.
+
 ## Installation
 
 To run this application, you'll need Python installed along with the PyQt6 library. If you don't have PyQt6 installed, you can add it via pip:
